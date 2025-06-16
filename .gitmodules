@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Shadowz-git/frontend_proj_soc.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Shadowz-git/backend_proj_soc.git
